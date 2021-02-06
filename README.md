@@ -1,16 +1,7 @@
-# dashboardui
+# A Dashboard for Wallet App
 
-A new Flutter application.
+Inspired by the dribble post. I tried to create a UI page that looks as close as it could. The UI seems to be having the latest UI/UX treand of "Neumorphism". The Dribble post can be found on the link -> https://dribbble.com/shots/9084817-Conceptual-Dashboard-Screen. 
 
-## Getting Started
+The Application has been developed in Flutter which is an cross-platform development toolkit for android and iOS application development. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
