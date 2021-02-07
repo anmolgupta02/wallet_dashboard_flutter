@@ -6,9 +6,10 @@ The Application has been developed in Flutter which is an cross-platform develop
 
 # Guide
 
--> git clone https://github.com/
--> cd
--> flutter packages get
--> flutter run
+-> git clone https://github.com/wallet_dashboard_flutter </br>
+-> cd wallet_dashboard_flutter </br>
+-> flutter packages get </br>
+-> flutter run</br>
 
 The code made easier from Saheb Singh's YouTube Video at -> https://www.youtube.com/watch?v=zyhPamYS3BU
+Get Saheb Singh's Git repo at -> https://github.com/singh-saheb/my_wallet_app_ui
