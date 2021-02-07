@@ -17,3 +17,22 @@ List<BoxShadow> kcustomShadow = [
     blurRadius: 30,
   )
 ];
+
+
+List expenses = [
+  {"name": "Groceries", "amount": 500.0},
+  {"name": "Online Shopping", "amount": 100.0},
+  {"name": "Eating out", "amount": 50.0},
+  {"name": "Bills", "amount": 50.0},
+  {"name": "Subscription", "amount": 1000.0},
+  {"name":"Fees", "amount":900}
+];
+
+ List pieColors = [
+  Colors.indigo,
+  Colors.blue,
+  Colors.green,
+  Colors.amber,
+  Colors.deepOrange,
+  Colors.brown
+];

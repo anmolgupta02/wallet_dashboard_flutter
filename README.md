@@ -4,4 +4,11 @@ Inspired by the dribble post. I tried to create a UI page that looks as close as
 
 The Application has been developed in Flutter which is an cross-platform development toolkit for android and iOS application development. 
 
+# Guide
 
+-> git clone https://github.com/
+-> cd
+-> flutter packages get
+-> flutter run
+
+The code made easier from Saheb Singh's YouTube Video at -> https://www.youtube.com/watch?v=zyhPamYS3BU
